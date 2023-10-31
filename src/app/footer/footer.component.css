@@ -1,0 +1,14 @@
+.row{
+    background: #E3F5FF;
+}
+
+.img{
+    width: 192px;
+height: 79px;
+flex-shrink: 0;
+}
+
+.container-fluid footer{
+    background: #E3F5FF;
+    
+}
